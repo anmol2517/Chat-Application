@@ -14,14 +14,16 @@ This application is divided into two modules :-
 - Server
 - Client
 
-Software Requirement :- 
-	- Jdk
-	- Netbeans
-	- MySql
+Software Requirement :-
+
+- Jdk
+- Netbeans
+- MySql
 
 Running Process :-
-	- Open Netbeans
-	- Open Your Project Source code in netbeans
-	- 	|-file
-	- 	     |-Open Project
-	- 		|-browse
+
+- Open Netbeans
+- Open Your Project Source code in netbeans
+- 	|-file
+- 	     |-Open Project
+- 		|-browse
