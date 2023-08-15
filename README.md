@@ -11,6 +11,6 @@ Users can also create and manage chat rooms, which can be either "public" or "pr
 
 This application is divided into two modules :-
 
-1 - Server
-2 - Client
+- Server
+- Client
 
