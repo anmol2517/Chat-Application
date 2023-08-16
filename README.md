@@ -33,6 +33,5 @@ Running Process :-
 
 ![Chat Server](https://github.com/anmol2517/Chat-Application/assets/110680449/12ed660a-f9d5-4a5a-824e-2d6fdede17ac)
 
-
-![Login](https://github.com/anmol2517/Chat-Application/assets/110680449/43850958-f957-40c9-b4ae-48211a91ca17)
+![Client Server](https://github.com/anmol2517/Chat-Application/assets/110680449/97e386a6-0f00-4cc3-a4a7-2444bb701e1c)
 
