@@ -9,18 +9,18 @@ Server is anything that has some accumulation that can be shared. client is simp
 Users can also create and manage chat rooms, which can be either "public" or "private".The server can also store and manage answering machine-style messages for users who are not online, and instant messages can be sent to those who are.Furthermore, users who aren’t watching their screens can be paged with sound. 
 
 
-This application is divided into two modules :-
+# This application is divided into two modules :-
 
 - Server
 - Client
 
-Software Requirement :-
+# Software Requirement :-
 
 - Jdk
 - Netbeans
 - MySql
 
-Running Process :-
+# Running Process :-
 
 - Open Netbeans
 - Open Your Project Source code in netbeans
